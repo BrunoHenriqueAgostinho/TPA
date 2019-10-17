@@ -10,7 +10,7 @@ Data de Criação: 01/010/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float num = 0.0;
 	printf("Lê um número e verifica se ele é positivo ou negativo \n");
 	printf("Insira um número: ");

@@ -10,7 +10,7 @@ Data de Criação: 28/09/2019
 #include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int alt = 0, comp = 0, a = 0;
 	printf("Calcular a área de um retângulo \n");
 	printf("Insira o valor da altura: ");

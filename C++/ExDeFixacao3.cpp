@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int anoNasc = 0, anoAtual = 0, idadeAnos = 0, idadeDias = 0;
 	printf("Receba o ano de nascimento de um aluno e mostra sua idade em anos e em dias \n");
 	printf("Insira o anos de nascimento do aluno: ");

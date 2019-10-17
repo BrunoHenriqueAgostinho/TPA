@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float fah = 0.0, cel = 0.0;
 	printf("Recebe um valor em Celcius calcule Fahrenheit \n");
 	printf("Indique a temperatura em graus Celsius: ");

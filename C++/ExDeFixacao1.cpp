@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float alt = 0.0, peso = 0.0, imc = 0.0;
 	printf("Calcula o IMC de um aluno \n");
 	printf("Indique a altura do aluno(em metros): ");

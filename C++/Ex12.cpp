@@ -10,7 +10,7 @@ Data de Criação: 01/10/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int num = 0;
 	printf("Recebe um valor inteiro e se esse valor for maior que 5 e menor que 20 exibe seu cubo \n");
 	printf("Insira um valor numérico inteiro: ");

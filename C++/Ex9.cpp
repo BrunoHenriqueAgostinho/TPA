@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int dividendo = 0, divisor = 0, quociente = 0, resto = 0;
 	printf("Exibe o quociente e o resto de uma divisão \n");
 	printf("Insira o valor do dividendo: ");

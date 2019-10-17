@@ -10,7 +10,7 @@ Data de Criação: 30/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float alt1 = 0.0, alt2 = 0.0, media = 0.0;
 	char nome1[50] = "", nome2[50] = "";
 	printf("Recebe a altura e  o nome de duas pessoas e exibe a média entre elas \n");

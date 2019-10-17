@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float prest = 0.0, taxa = 0.0, valor = 0.0 ;
 	int tempo = 0;
 	printf("Efetua o caluculo e apresenta o valor de uma prestação em atraso \n");

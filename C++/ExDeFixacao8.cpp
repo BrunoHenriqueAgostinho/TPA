@@ -11,7 +11,7 @@ Data de Criação: 30/09/2019
 #define PI 3.1416
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int h = 0, min = 0, s = 0, totS = 0;
 
 	printf("Exibe em segundo valores de horas, minutos e sugundos \n");

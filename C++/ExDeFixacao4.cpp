@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float n1 = 0.0, n2 = 0.0, n3 = 0.0, n4 = 0.0, p1 = 0.0, p2 = 0.0, p3 = 0.0, p4 = 0.0, media = 0.0;
 	printf("Recebe 4 notas e 4 pesos e exibe a média ponderada desses valores \n");
 	printf("Insira o valor da primeira nota: ");

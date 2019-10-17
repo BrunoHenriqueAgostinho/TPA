@@ -11,7 +11,7 @@ Data de Criação: 30/09/2019
 #define PI 3.1416
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int  totalS = 0, totalMin = 0, totalH = 0, finalS = 0, finalMin = 0;
 
 	printf("Transforma um total de segundos em horas, minutos e segundos \n");

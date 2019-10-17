@@ -11,7 +11,7 @@ Data de Criação: 03/10/2019
 #include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float MF = 0.0;
 	char nome[50] = "";
 	printf("Ler o nome de um aluno, sua média final e informar se ele foi aprovado ou não. \n");

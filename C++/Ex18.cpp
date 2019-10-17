@@ -10,7 +10,7 @@ Data de Criação: 03/10/2019
 #include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int num = 0, quoc = 0, rest = 0;
 	printf("Mostra se um número é par ou ímpar \n");
 	printf("Insira um valor numérico inteiro: ");

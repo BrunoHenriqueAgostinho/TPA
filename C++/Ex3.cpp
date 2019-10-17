@@ -13,7 +13,7 @@ Data de Criação: 28/09/2019
 //declarando constante
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float raio = 0, a = 0;
 	printf("Calcula a área de um círculo \n");
 	printf("Insira o raio do círculo: ");

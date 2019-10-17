@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float sal = 0.0, porcent = 0.0, novoSal = 0.0;
 	printf("Calcule e mostre o valor do novo salário \n");
 	printf("Insira o valor do salário: ");

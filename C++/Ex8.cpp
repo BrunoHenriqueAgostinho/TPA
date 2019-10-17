@@ -10,7 +10,7 @@ Data de Criação: 29/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float num1 = 0.0, num2 = 0.0, num3 = 0.0, num4 = 0.0, media = 0.0;
 	printf("Recebe 4 notas de um aluno e calcula sua média \n");
 	printf("Insira a primeira nota: ");

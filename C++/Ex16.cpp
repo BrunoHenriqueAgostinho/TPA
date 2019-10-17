@@ -13,7 +13,7 @@ Data de Criação: 03/10/2019
 #include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int idade = 0;
 	printf("Classifica um nadador em uma das seguintes categorias: \n - Infantil: 5 a 11 anos; \n - Juvenil: 12 a 17 anos; \n - Adulto: > 18 anos. \n");
 	printf("Insira a idade do candidato: ");

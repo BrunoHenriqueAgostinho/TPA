@@ -13,7 +13,7 @@ Data de Criação: 30/09/2019
 #define PI 3.1416
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float comp = 0.0, larg = 0.0, a = 0.0, poten = 0.0;
 
 	printf("Calcula a potência necessária para iluminar um  cômodo corretamente \n");

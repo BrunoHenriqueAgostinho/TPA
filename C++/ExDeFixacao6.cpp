@@ -15,7 +15,7 @@ Data de Criação: 30/09/2019
 #define PI 3.1416
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float r = 0.0, comp = 0.0, a = 0.0, vol = 0.0;
 
 	printf("Calcula o comprimento, a área e o volume de uma esfera baseado no raio \n");

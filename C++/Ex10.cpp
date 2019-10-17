@@ -10,7 +10,7 @@ Data de Criação: 01/10/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int num = 0;
 	
 	printf("Verifica se um número é maior do que 100. Se for, soma 50 a esse número \n");

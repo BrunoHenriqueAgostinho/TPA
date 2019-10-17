@@ -10,7 +10,7 @@ Data de Criação: 28/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int bas = 0, alt = 0, a = 0;
 	printf("Calcula a área de um triângulo \n");
 	printf("Insira a base do triângulo: ");

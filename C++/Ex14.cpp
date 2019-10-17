@@ -10,7 +10,7 @@ Data de Criação: 01/10/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int num1 = 0, num2 = 0, num3 = 0, maior = 0;
 	
 	printf("Lê três números e mostra o maior digitado \n");

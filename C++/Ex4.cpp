@@ -9,7 +9,7 @@ Data de Criação: 28/09/2019
 #include <locale.h>
 
 int main(){
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	int num1 = 0, num2 = 0, num3 = 0, soma = 0, quad;
 	printf("Efetua a leitura de 3 valores inteiros e apresenta como resultado final o quadrado da soma dos números \n");
 	printf("Insira o primeiro número: ");

@@ -11,7 +11,7 @@ Data de Criação: 28/09/2019
 #include <locale.h>
 
 int main() {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Portuguese");
 	float comp = 0, larg = 0, a = 0, preco = 0, precoFinal = 0;
 	printf("Calcula o preço de um terreno retangular \n");
 	printf("Insira o comprimento do terreno(em metros): ");
