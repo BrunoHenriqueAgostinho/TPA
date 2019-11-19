@@ -1,6 +1,6 @@
 /*
 Exercício 31
-função: 
+função: Ler e Exibir o nome de 5 pessoas
 Autor: Bruno Henrique Agostinho da Silva
 Data de Criação: 29/10/2019 
 */
